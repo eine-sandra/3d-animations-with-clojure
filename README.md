@@ -4,4 +4,4 @@
  
  ## jellyfish1
  
- [jellyfish1](Qualle1opt.gif)
+ ![jellyfish1](Qualle1opt.gif)
