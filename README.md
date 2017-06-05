@@ -22,3 +22,7 @@
   ## noise-cube2
  
  ![noise-cube2](noise-cube2.gif)
+ 
+  ## noise-sphere1
+ 
+ ![noise-sphere1](noise-sphere1.gif)
