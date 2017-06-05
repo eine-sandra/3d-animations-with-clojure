@@ -5,3 +5,12 @@
  ## jellyfish1
  
  ![jellyfish1](Qualle1opt.gif)
+ 
+ 
+  ## jellyfish2
+ 
+ ![jellyfish2](jellyfish2.gif)
+ 
+  ## jellyfish3
+ 
+ ![jellyfish3](jellyfish3.gif)
