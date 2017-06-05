@@ -7,22 +7,26 @@
  ![jellyfish1](Qualle1opt.gif)
  
  
-  ## jellyfish2
+ ## jellyfish2
  
  ![jellyfish2](jellyfish2.gif)
  
-  ## jellyfish3
+ ## jellyfish3
  
  ![jellyfish3](jellyfish3.gif)
  
-  ## noise-cube1
+ ## noise-cube1
  
  ![noise-cube1](noise-cube1.gif)
  
-  ## noise-cube2
+ ## noise-cube2
  
  ![noise-cube2](noise-cube2.gif)
  
-  ## noise-sphere1
+ ## noise-sphere1
  
  ![noise-sphere1](noise-sphere1.gif)
+ 
+ ## pyramids
+ 
+ ![pyramids](pyramids.gif)
