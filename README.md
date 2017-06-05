@@ -14,3 +14,11 @@
   ## jellyfish3
  
  ![jellyfish3](jellyfish3.gif)
+ 
+  ## noise-cube1
+ 
+ ![noise-cube1](noise-cube1.gif)
+ 
+  ## noise-cube2
+ 
+ ![noise-cube2](noise-cube2.gif)
